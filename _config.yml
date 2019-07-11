@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-relative-urls
+  - jekyll-commonmark
+  - jekyll-seo-tag
+  - jekyll-purgecss
+  - jekyll-brotli
+  - jekyll-gzip
+
+sass:
+  style: compressed
+
+exclude:
+  - package.json
+  - yarn.lock
+  - node_modules
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+
+markdown: CommonMark
+commonmark:
+  options: ['SMART', 'FOOTNOTES']
+  extensions: ['strikethrough', 'autolink', 'table']
+
+theme: minima
