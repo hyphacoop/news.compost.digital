@@ -3,6 +3,7 @@ plugins:
   - jekyll-commonmark
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-purgecss
   - jekyll-brotli
   - jekyll-gzip

@@ -9,6 +9,7 @@ gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-brotli'
   gem 'jekyll-commonmark'
+  gem 'jekyll-feed'
   gem 'jekyll-gzip'
   gem 'jekyll-purgecss', '~> 0.2'
   gem 'jekyll-relative-urls'

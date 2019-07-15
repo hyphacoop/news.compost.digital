@@ -111,6 +111,7 @@ DEPENDENCIES
   jekyll
   jekyll-brotli
   jekyll-commonmark
+  jekyll-feed
   jekyll-gzip
   jekyll-purgecss (~> 0.2)
   jekyll-relative-urls
