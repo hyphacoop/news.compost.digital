@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem 'jekyll-purgecss', '~> 0.2'
   gem 'jekyll-relative-urls'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
 end
 
 group :jekyll_themes do

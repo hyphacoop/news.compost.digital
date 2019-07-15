@@ -2,6 +2,7 @@ plugins:
   - jekyll-relative-urls
   - jekyll-commonmark
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-purgecss
   - jekyll-brotli
   - jekyll-gzip
