@@ -1,0 +1,53 @@
+---
+title:
+  required: true
+  label:
+    es: 'Título del artículo'
+    en: 'Post title'
+  value: 'string'
+author:
+  value: 'array'
+  label:
+    es: 'Autore'
+    en: 'Author'
+image:
+  value: 'image'
+  label:
+    es: 'Imagen principal'
+    en: 'Main image'
+  help:
+    es: |
+      Se utiliza para ilustrar el artículo y como previsualización en
+      las redes sociales.
+    en: |
+      It's used to illustrate the article and as preview in social
+      networks.
+permalink:
+  value: 'string'
+  label:
+    es: 'Enlace'
+    en: 'Permalink'
+  help:
+    es: |
+      Si no quieres utilizar el formato de enlaces general del sitio
+      para este artículo, especifica uno aquí.
+    en: |
+      If you don't want to follow the site's link format for this
+      post, change it here.
+categories:
+  value: 'array'
+  label:
+    es: 'Categorías'
+    en: 'Categories'
+  help:
+    es: 'Ayudan a organizar los artículos en temas'
+    en: 'Use categories to organize posts by themes'
+tags:
+  values: 'array'
+  label:
+    es: 'Etiquetas'
+    en: 'Tags'
+  help:
+    es: 'Usa etiquetas para resaltar palabras clave'
+    en: 'Tags are helpful as keywords'
+---
