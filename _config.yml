@@ -25,3 +25,6 @@ commonmark:
   - strikethrough
   - autolink
   - table
+translations:
+- es
+- en
