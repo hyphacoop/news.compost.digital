@@ -4,14 +4,14 @@ title:
   label:
     es: 'Título del artículo'
     en: 'Post title'
-  value: 'string'
+  type: 'string'
 author:
-  value: 'array'
+  type: 'array'
   label:
     es: 'Autore'
     en: 'Author'
 image:
-  value: 'image'
+  type: 'image'
   label:
     es: 'Imagen principal'
     en: 'Main image'
@@ -23,7 +23,7 @@ image:
       It's used to illustrate the article and as preview in social
       networks.
 permalink:
-  value: 'string'
+  type: 'string'
   label:
     es: 'Enlace'
     en: 'Permalink'
@@ -35,7 +35,7 @@ permalink:
       If you don't want to follow the site's link format for this
       post, change it here.
 categories:
-  value: 'array'
+  type: 'array'
   label:
     es: 'Categorías'
     en: 'Categories'
@@ -43,7 +43,7 @@ categories:
     es: 'Ayudan a organizar los artículos en temas'
     en: 'Use categories to organize posts by themes'
 tags:
-  value: 'array'
+  type: 'array'
   label:
     es: 'Etiquetas'
     en: 'Tags'
