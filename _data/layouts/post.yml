@@ -12,16 +12,36 @@ author:
     en: 'Author'
 image:
   type: 'image'
+  path:
+    label:
+      es: 'Imagen principal'
+      en: 'Main image'
+    help:
+      es: |
+        Se utiliza para ilustrar el artículo y como previsualización en
+        las redes sociales.
+      en: |
+        It's used to illustrate the article and as preview in social
+        networks.
+  description:
+    label:
+      es: 'Descripción de la imagen principal'
+      en: 'Main image description'
+    help:
+      es: |
+        Describe la imagen principal para usuaries no videntes y
+        buscadores
+      en: |
+        Describe the main image for blind or partially sighted users and
+        search engines
+content:
+  type: 'content'
   label:
-    es: 'Imagen principal'
-    en: 'Main image'
+    es: 'Contenido del artículo'
+    en: 'Post content'
   help:
-    es: |
-      Se utiliza para ilustrar el artículo y como previsualización en
-      las redes sociales.
-    en: |
-      It's used to illustrate the article and as preview in social
-      networks.
+    es: 'Escribe aquí el artículo'
+    en: 'Write down your post'
 permalink:
   type: 'string'
   label:
@@ -50,4 +70,12 @@ tags:
   help:
     es: 'Usa etiquetas para resaltar palabras clave'
     en: 'Tags are helpful as keywords'
+draft:
+  type: 'boolean'
+  label:
+    es: 'Borrador'
+    en: 'Draft'
+  help:
+    es: 'Este artículo aun no está listo para publicar'
+    en: "This post isn't ready to be published yet"
 ---
