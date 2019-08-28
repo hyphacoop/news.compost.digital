@@ -1,15 +1,21 @@
 ---
 title:
+  type: 'string'
   required: true
   label:
     es: 'Título del artículo'
     en: 'Post title'
-  type: 'string'
+  help:
+    es: '¡Un título que invite a leer el artículo!'
+    en: 'A title that invites people to read the post!'
 author:
   type: 'array'
   label:
-    es: 'Autore'
-    en: 'Author'
+    es: 'Autores'
+    en: 'Authors'
+  help:
+    es: 'Quiénes participaron en la escritura de este artículo'
+    en: 'Who collaborated in write this post'
 image:
   type: 'image'
   path:
