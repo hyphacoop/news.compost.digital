@@ -1,4 +1,5 @@
 plugins:
+- jekyll-drafts-as-metadata
 - jekyll-relative-urls
 - jekyll-commonmark
 - jekyll-seo-tag
