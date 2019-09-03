@@ -5,6 +5,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-turbolinks
 - jekyll-purgecss
 - jekyll-brotli
 - jekyll-gzip
@@ -29,3 +30,7 @@ commonmark:
 translations:
 - es
 - en
+theme: minima
+turbolinks:
+  enabled: true
+  url: turbolinks.js

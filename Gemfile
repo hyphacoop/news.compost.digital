@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-relative-urls'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
+  gem 'jekyll-turbolinks'
 end
 
 group :jekyll_themes do
