@@ -1,6 +1,10 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org'
+if ENV['RAILS_ENV'] == 'production'
+  source 'https://gems.sutty.nl'
+else
+  source 'https://rubygems.org'
+end
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
