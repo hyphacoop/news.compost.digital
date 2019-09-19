@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-drafts-as-metadata'
   gem 'jekyll-feed'
   gem 'jekyll-gzip'
+  gem 'jekyll-locales'
   gem 'jekyll-purgecss',
       git: 'https://0xacab.org/sutty/jekyll/jekyll-purgecss.git'
   gem 'jekyll-relative-urls'

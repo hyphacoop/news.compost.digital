@@ -2,3 +2,4 @@ node_modules/
 .sass-cache/
 .jekyll-cache/
 _site/
+_posts

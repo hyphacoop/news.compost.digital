@@ -1,0 +1,17 @@
+---
+permalink: redirector.html
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="10;url={{ site.default_locale }}/" />
+  </head>
+  <body style="text-align: center">
+    <h1>{{ site.title }}</h1>
+
+    {% for locale in site.locales %}
+      <h2><a href="{{ locale }}/">{{ site.data[locale].locale }}</a></h2>
+    {% endfor %}
+  </body>
+</html>

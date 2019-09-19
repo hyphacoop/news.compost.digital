@@ -1,4 +1,5 @@
 plugins:
+- jekyll-locales
 - jekyll-drafts-as-metadata
 - jekyll-relative-urls
 - jekyll-commonmark
@@ -27,7 +28,7 @@ commonmark:
   - strikethrough
   - autolink
   - table
-translations:
+locales:
 - es
 - en
 theme: minima
