@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-if ENV['RAILS_ENV'] == 'production'
+if ENV['JEKYLL_ENV'] == 'production'
   source 'https://gems.sutty.nl'
 else
   source 'https://rubygems.org'
