@@ -1,6 +1,7 @@
 ---
 title: Política de Privacidad
-author: Sutty
+author:
+- Sutty
 layout: post
 description: ¿Cuáles son los cuidados de este sitio con respecto a sus usuaries y visitantes?
 permalink: politica-de-privacidad/

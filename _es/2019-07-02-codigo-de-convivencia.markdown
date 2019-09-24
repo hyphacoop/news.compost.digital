@@ -2,7 +2,8 @@
 categories:
 - Sutty
 title: Códigos para compartir
-author: Sutty
+author:
+- Sutty
 layout: post
 permalink: codigo-de-convivencia/
 ---
