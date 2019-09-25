@@ -1,6 +1,7 @@
 ---
 title: Privacy policy
-author: Sutty
+author:
+- Sutty
 layout: post
 description: With what care does this site handles personal data of its users and visitors?
 permalink: privacy-policy/

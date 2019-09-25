@@ -2,7 +2,8 @@
 categories:
 - Sutty
 title: Code for sharing
-author: Sutty
+author:
+- Sutty
 layout: post
 permalink: code-of-conduct/
 ---
