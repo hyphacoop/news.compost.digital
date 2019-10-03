@@ -8,6 +8,24 @@ title:
   help:
     es: '¡Un título que invite a leer el artículo!'
     en: 'A title that invites people to read the post!'
+description:
+  type: 'text'
+  required: true
+  label:
+    es: 'Alerta de contenido o descripción del artículo'
+    en: 'Content warning or post description'
+  help:
+    es: |
+      Resumen del contenido del artículo, que también usarán redes
+      sociales y buscadores.  Si el artículo trata de violencias y otros
+      temas sensibles, te invitamos a usar este campo como alerta de
+      contenido, para que las personas puedan determinar cuándo quieren
+      abrirlo.
+    en: |
+      Summary of the post contents, also used by social media and search
+      engines.  If the post is about violence and other sensitive
+      topics, we invite you to use it as a content warning, so others
+      can decide when they want to read it.
 author:
   type: 'array'
   label:
