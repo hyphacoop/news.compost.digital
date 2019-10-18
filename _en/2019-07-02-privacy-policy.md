@@ -7,6 +7,7 @@ description: With what care does this site handles personal data of its users an
 permalink: privacy-policy/
 categories:
 - Sutty
+order: 1
 ---
 
 > We use "them" as neutral pronoun to refer to people regardless of

@@ -6,6 +6,7 @@ author:
 - Sutty
 layout: post
 permalink: codigo-de-convivencia/
+order: 0
 ---
 
 # Códigos para compartir

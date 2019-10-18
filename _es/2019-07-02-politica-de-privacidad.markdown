@@ -7,6 +7,7 @@ description: ¿Cuáles son los cuidados de este sitio con respecto a sus usuarie
 permalink: politica-de-privacidad/
 categories:
 - Sutty
+order: 1
 ---
 
 > Utilizamos la e como pronombre neutro para referirnos a personas

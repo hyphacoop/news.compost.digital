@@ -102,4 +102,12 @@ draft:
   help:
     es: 'Este artículo aun no está listo para publicar'
     en: "This post isn't ready to be published yet"
+order:
+  type: 'order'
+  label:
+    es: 'Orden'
+    en: 'Order'
+  help:
+    es: 'La posición del artículo en la lista de artículos'
+    en: 'The post position in the posts list'
 ---

@@ -6,6 +6,7 @@ author:
 - Sutty
 layout: post
 permalink: code-of-conduct/
+order: 0
 ---
 
 # Code for sharing
