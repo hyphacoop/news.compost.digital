@@ -6,6 +6,7 @@ author:
 - Sutty
 layout: post
 permalink: code-of-conduct/
+description: Codes of conduct allow inclusive communities
 order: 0
 ---
 

@@ -6,6 +6,7 @@ author:
 - Sutty
 layout: post
 permalink: codigo-de-convivencia/
+description: Los códigos de convivencia nos permiten alojar comunidades inclusivas
 order: 0
 ---
 
