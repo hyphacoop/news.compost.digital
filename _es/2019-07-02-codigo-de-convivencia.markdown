@@ -64,7 +64,7 @@ Para les humanes
 Todes somos dignes de cuidados y de saludos y tenemos derecho a suponer
 las buenas intenciones de le otre.
 
-Para referirnos a otres humanes, trataremos de ser cuidodoses y
+Para referirnos a otres humanes, trataremos de ser cuidadoses y
 respuestuoses de su identidad de género. Para ello, son útiles los
 siguientes principios:
 
