@@ -24,6 +24,7 @@ commonmark:
   options:
   - SMART
   - FOOTNOTES
+  - UNSAFE
   extensions:
   - strikethrough
   - autolink
