@@ -9,6 +9,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-turbolinks
+- jekyll-include-cache
 - jekyll-purgecss
 - jekyll-brotli
 - jekyll-gzip
