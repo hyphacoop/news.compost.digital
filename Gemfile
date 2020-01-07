@@ -11,13 +11,11 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 gem 'jekyll', '~> 4'
 
 group :jekyll_plugins do
-  gem 'jekyll-brotli',
-      git: 'https://0xacab.org/sutty/jekyll/jekyll-brotli.git'
+  gem 'jekyll-brotli'
   gem 'jekyll-commonmark'
   gem 'jekyll-drafts-as-metadata'
   gem 'jekyll-feed'
-  gem 'jekyll-gzip',
-      git: 'https://0xacab.org/sutty/jekyll/jekyll-gzip.git'
+  gem 'jekyll-gzip'
   gem 'jekyll-include-cache'
   gem 'jekyll-locales'
   gem 'jekyll-purgecss',

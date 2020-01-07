@@ -1,26 +1,11 @@
 GIT
-  remote: https://0xacab.org/sutty/jekyll/jekyll-brotli.git
-  revision: d159d0b2b27cd6eb317520a5ace57443fb4bddfd
-  specs:
-    jekyll-brotli (2.1.0)
-      brotli (~> 0.2.0)
-      jekyll (>= 3.0, < 5.0)
-
-GIT
-  remote: https://0xacab.org/sutty/jekyll/jekyll-gzip.git
-  revision: c3c28206e11293a1785c72679a4d5a65cde19d3e
-  specs:
-    jekyll-gzip (2.3.0)
-      jekyll (>= 3.0, < 5.0)
-
-GIT
   remote: https://0xacab.org/sutty/jekyll/jekyll-purgecss.git
   revision: 3f86a3d07e5f06af67ad5435e5a710987a86c8d6
   specs:
     jekyll-purgecss (0.2.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.sutty.nl/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -56,6 +41,9 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-brotli (2.2.0)
+      brotli (~> 0.2.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-commonmark (1.3.1)
       commonmarker (~> 0.14)
       jekyll (>= 3.7, < 5.0)
@@ -63,6 +51,8 @@ GEM
       jekyll (>= 3.8, < 4.1)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-gzip (2.4.1)
+      jekyll (>= 3.0, < 5.0)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-locales (0.1.6)
@@ -134,11 +124,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4)
-  jekyll-brotli!
+  jekyll-brotli
   jekyll-commonmark
   jekyll-drafts-as-metadata
   jekyll-feed
-  jekyll-gzip!
+  jekyll-gzip
   jekyll-include-cache
   jekyll-locales
   jekyll-purgecss!
