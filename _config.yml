@@ -1,5 +1,5 @@
 ---
-incremental: true
+incremental: false
 plugins:
 - jekyll-locales
 - jekyll-drafts-as-metadata
