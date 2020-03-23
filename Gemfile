@@ -28,6 +28,7 @@ end
 
 group :jekyll_themes do
   gem 'minima'
+  gem 'sutty-jekyll-theme'
 end
 
 group :development do
