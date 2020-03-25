@@ -27,6 +27,7 @@ group :jekyll_plugins do
 end
 
 group :jekyll_themes do
+  gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
   gem 'sutty-jekyll-theme'
 end
