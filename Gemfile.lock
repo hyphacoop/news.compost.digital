@@ -131,7 +131,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.2.1)
       ffi (~> 1.9)
-    sutty-jekyll-theme (0.1.1)
+    sutty-jekyll-theme (0.1.2)
       jekyll (~> 4.0)
       jekyll-feed (~> 0.9)
       jekyll-images (~> 0.2)
