@@ -2,6 +2,7 @@
 incremental: false
 plugins:
 - jekyll-locales
+- jekyll-data
 - jekyll-drafts-as-metadata
 - jekyll-relative-urls
 - jekyll-commonmark
@@ -37,7 +38,7 @@ commonmark:
 locales:
 - es
 - en
-theme: minima
+theme: sutty-jekyll-theme
 turbolinks:
   enabled: true
   url: turbolinks.js
