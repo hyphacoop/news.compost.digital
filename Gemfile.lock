@@ -151,6 +151,7 @@ DEPENDENCIES
   jekyll (~> 4)
   jekyll-brotli
   jekyll-commonmark
+  jekyll-data
   jekyll-drafts-as-metadata
   jekyll-feed
   jekyll-gzip

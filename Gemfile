@@ -13,6 +13,7 @@ gem 'jekyll', '~> 4'
 group :jekyll_plugins do
   gem 'jekyll-brotli'
   gem 'jekyll-commonmark'
+  gem 'jekyll-data'
   gem 'jekyll-drafts-as-metadata'
   gem 'jekyll-feed'
   gem 'jekyll-gzip'
