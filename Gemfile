@@ -17,6 +17,7 @@ group :jekyll_plugins do
   gem 'jekyll-drafts-as-metadata'
   gem 'jekyll-feed'
   gem 'jekyll-gzip'
+  gem 'jekyll-hardlinks'
   gem 'jekyll-include-cache'
   gem 'jekyll-locales'
   gem 'jekyll-purgecss',
