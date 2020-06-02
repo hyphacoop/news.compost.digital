@@ -140,7 +140,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.3.0)
       ffi (~> 1.9)
-    sutty-donaciones-jekyll-theme (0.1.0)
+    sutty-donaciones-jekyll-theme (0.1.1)
       jekyll (~> 4.0)
       jekyll-data (~> 1.1)
       jekyll-feed (~> 0.9)
