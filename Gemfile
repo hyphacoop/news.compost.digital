@@ -32,6 +32,7 @@ group :jekyll_themes do
   gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
   gem 'sutty-jekyll-theme'
+  gem 'sutty-donaciones-jekyll-theme'
 end
 
 group :development do
