@@ -16,7 +16,7 @@ GEM
     commonmarker (0.21.0)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.6)
-    editorial-autogestiva-jekyll-theme (0.2.6)
+    editorial-autogestiva-jekyll-theme (0.2.7)
       jekyll (~> 4.0)
       jekyll-data (~> 1.1)
       jekyll-feed (~> 0.9)
@@ -94,6 +94,8 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
+    liquid-c (4.0.0)
+      liquid (>= 3.0.0)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -180,6 +182,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-turbolinks
+  liquid-c (~> 4)
   minima
   pry
   rubocop-jekyll
