@@ -26,13 +26,14 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-turbolinks'
+  gem 'sutty-archives'
 end
 
 group :jekyll_themes do
   gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
-  gem 'sutty-jekyll-theme'
   gem 'sutty-donaciones-jekyll-theme'
+  gem 'sutty-jekyll-theme'
 end
 
 group :development do
