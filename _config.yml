@@ -2,6 +2,7 @@
 incremental: false
 plugins:
 - jekyll-locales
+- jekyll-order
 - jekyll-data
 - jekyll-drafts-as-metadata
 - jekyll-relative-urls
