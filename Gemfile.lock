@@ -141,6 +141,14 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
+    share-to-fediverse-jekyll-theme (0.1.1)
+      jekyll (~> 4.0)
+      jekyll-data (~> 1.1)
+      jekyll-feed (~> 0.9)
+      jekyll-images (~> 0.2)
+      jekyll-include-cache (~> 0)
+      jekyll-relative-urls (~> 0.0)
+      jekyll-seo-tag (~> 2.1)
     sutty-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
     sutty-donaciones-jekyll-theme (0.1.2)
@@ -189,6 +197,7 @@ DEPENDENCIES
   minima
   pry
   rubocop-jekyll
+  share-to-fediverse-jekyll-theme
   sutty-archives
   sutty-donaciones-jekyll-theme
   sutty-jekyll-theme

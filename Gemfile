@@ -33,6 +33,7 @@ end
 group :jekyll_themes do
   gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
+  gem 'share-to-fediverse-jekyll-theme'
   gem 'sutty-donaciones-jekyll-theme'
   gem 'sutty-jekyll-theme'
 end
