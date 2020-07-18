@@ -76,6 +76,8 @@ GEM
     jekyll-liquify-alt (0.1.2)
       jekyll (~> 4)
     jekyll-locales (0.1.10)
+    jekyll-onion-location (0.1.0)
+      jekyll (~> 4)
     jekyll-order (0.1.1)
     jekyll-relative-urls (0.0.5)
       jekyll (>= 3.8, < 5)
@@ -188,6 +190,7 @@ DEPENDENCIES
   jekyll-hardlinks
   jekyll-include-cache
   jekyll-locales
+  jekyll-onion-location
   jekyll-order
   jekyll-purgecss!
   jekyll-relative-urls
