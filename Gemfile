@@ -32,6 +32,7 @@ group :jekyll_plugins do
 end
 
 group :jekyll_themes do
+  gem 'adhesiones-jekyll-theme'
   gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
   gem 'share-to-fediverse-jekyll-theme'
