@@ -76,7 +76,7 @@ GEM
       jekyll (>= 3.0, < 5.0)
     jekyll-hardlinks (0.1.1)
       jekyll (~> 4)
-    jekyll-images (0.2.6.1)
+    jekyll-images (0.2.7)
       jekyll (~> 4)
       ruby-filemagic (~> 0.7)
       ruby-vips (~> 2)
