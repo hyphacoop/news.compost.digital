@@ -1,2 +1,9 @@
+---
+---
+
 User-Agent: *
-Disallow:
+Allow: /
+
+Host: {{ site.hostname }}
+{% for locale in site.locales %}
+Sitemap: {{ site.url }}{{ locale }}/sitemap.xml{% endfor %}
