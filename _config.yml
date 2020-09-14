@@ -5,6 +5,7 @@ plugins:
 - jekyll-order
 - jekyll-data
 - jekyll-drafts-as-metadata
+- jekyll-embed-urls
 - jekyll-relative-urls
 - jekyll-commonmark
 - jekyll-onion-location

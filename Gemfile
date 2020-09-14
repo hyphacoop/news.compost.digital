@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark'
   gem 'jekyll-data'
   gem 'jekyll-drafts-as-metadata'
+  gem 'jekyll-embed-urls'
   gem 'jekyll-feed'
   gem 'jekyll-gzip'
   gem 'jekyll-hardlinks'
