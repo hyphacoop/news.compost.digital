@@ -37,6 +37,7 @@ group :jekyll_themes do
   gem 'editorial-autogestiva-jekyll-theme'
   gem 'minima'
   gem 'radios-comunitarias-jekyll-theme'
+  gem 'recursero-jekyll-theme'
   gem 'share-to-fediverse-jekyll-theme'
   gem 'sutty-donaciones-jekyll-theme'
   gem 'sutty-jekyll-theme'
