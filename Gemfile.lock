@@ -265,6 +265,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-turbolinks
+  jekyll-unique-urls
   minima
   pry
   radios-comunitarias-jekyll-theme
