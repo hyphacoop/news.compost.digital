@@ -8,6 +8,7 @@ layout: post
 permalink: codigo-de-convivencia/
 description: Los códigos de convivencia nos permiten alojar comunidades inclusivas
 order: 0
+uuid: b9b2e3b5-a492-4591-b3ca-b0ff1169ad8b
 ---
 
 # Códigos para compartir

@@ -8,6 +8,7 @@ permalink: privacy-policy/
 categories:
 - Sutty
 order: 1
+uuid: ca892a95-896c-45ef-9fbb-086e6cd251c4
 ---
 
 > We use "them" as neutral pronoun to refer to people regardless of

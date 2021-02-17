@@ -8,6 +8,7 @@ layout: post
 permalink: code-of-conduct/
 description: Codes of conduct allow inclusive communities
 order: 0
+uuid: cb26a5a9-805d-487b-989d-b886b8afb694
 ---
 
 # Code for sharing
