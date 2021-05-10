@@ -1,10 +1,6 @@
 # frozen_string_literal: true
 
-if ENV['JEKYLL_ENV'] == 'production'
-  source 'https://gems.sutty.nl'
-else
-  source 'https://rubygems.org'
-end
+source 'https://gems.sutty.nl'
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
