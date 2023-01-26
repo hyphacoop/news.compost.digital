@@ -38,6 +38,7 @@ group :jekyll_themes do
   gem 'sutty-donaciones-jekyll-theme'
   gem 'sutty-jekyll-theme'
   gem 'sutty-minima'
+  gem 'compost-jekyll-theme'
 end
 
 group :development do
