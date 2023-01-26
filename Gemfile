@@ -5,6 +5,7 @@ source 'https://gems.sutty.nl'
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem 'jekyll', '~> 4.2.0'
+gem 'commonmarker', '0.23.6'
 
 group :jekyll_plugins do
   gem 'jekyll-brotli'
