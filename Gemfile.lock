@@ -161,7 +161,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-linked-posts (0.4.3)
       jekyll (~> 4)
-    jekyll-locales (0.2.0)
+    jekyll-locales (0.2.1)
     jekyll-lunr (0.3.0)
       loofah (~> 2.4)
     jekyll-onion-location (0.1.2)
