@@ -269,7 +269,7 @@ GEM
       rubocop-ast (>= 1.8.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.27.0)
+    rubocop-ast (1.28.0)
       parser (>= 3.2.1.0)
     rubocop-jekyll (0.12.0)
       rubocop (~> 1.18.0)
@@ -324,11 +324,13 @@ GEM
     sutty-liquid (0.11.7)
       fast_blank (~> 1.0)
       jekyll (~> 4)
-    sutty-minima (2.5.6)
+    sutty-minima (2.6.0)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
+      jekyll-include-cache
       jekyll-relative-urls (~> 0)
       jekyll-seo-tag (~> 2.1)
+      sutty-liquid
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     turbolinks-source (5.2.0)
