@@ -8,6 +8,7 @@ gem 'jekyll', '~> 4.2.0'
 gem 'commonmarker', '0.23.6'
 
 group :jekyll_plugins do
+  gem 'jekyll-ignore-layouts'
   gem 'jekyll-brotli'
   gem 'jekyll-commonmark'
   gem 'jekyll-data'

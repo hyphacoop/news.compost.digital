@@ -354,6 +354,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gzip
   jekyll-hardlinks
+  jekyll-ignore-layouts
   jekyll-include-cache
   jekyll-locales
   jekyll-onion-location
