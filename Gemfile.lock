@@ -324,7 +324,7 @@ GEM
     sutty-liquid (0.11.8)
       fast_blank (~> 1.0)
       jekyll (~> 4)
-    sutty-minima (2.6.1)
+    sutty-minima (2.6.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-include-cache
