@@ -1,6 +1,7 @@
 ---
 incremental: false
 plugins:
+- sutty-liquid
 - jekyll-locales
 - jekyll-order
 - jekyll-data
