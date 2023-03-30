@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source 'https://gems.sutty.nl'
+source ENV.fetch('GEMS_SOURCE', 'https://gems.sutty.nl')
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
