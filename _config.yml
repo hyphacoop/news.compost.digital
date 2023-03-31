@@ -46,7 +46,7 @@ theme: sutty-jekyll-theme
 turbolinks:
   enabled: true
   url: turbolinks.js
-ignore_layouts:
+ignored_layouts:
 - "menu"
 - "about"
 - "theme"
