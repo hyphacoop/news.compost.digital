@@ -18,7 +18,6 @@ plugins:
 - jekyll-relative-urls
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-turbolinks
 - sutty-liquid
 sass:
   style: compressed
@@ -45,9 +44,6 @@ locales:
 - es
 - en
 theme: sutty-jekyll-theme
-turbolinks:
-  enabled: true
-  url: turbolinks.js
 ignored_layouts:
 - "menu"
 - "about"

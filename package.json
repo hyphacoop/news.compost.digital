@@ -2,7 +2,6 @@
   "dependencies": {
     "bootstrap": "~4.6",
     "fork-awesome": "^1.1.7",
-    "purgecss": "^2",
-    "turbolinks": "^5.2.0"
+    "purgecss": "^2"
   }
 }
