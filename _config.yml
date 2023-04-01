@@ -1,23 +1,25 @@
 ---
 incremental: false
 plugins:
-- sutty-liquid
-- jekyll-locales
-- jekyll-order
+- jekyll-brotli
+- jekyll-commonmark
 - jekyll-data
 - jekyll-drafts-as-metadata
 - jekyll-embed-urls
-- jekyll-relative-urls
-- jekyll-commonmark
+- jekyll-feed
+- jekyll-gzip
+- jekyll-hardlinks
+- jekyll-include-cache
+- jekyll-images
+- jekyll-locales
 - jekyll-onion-location
+- jekyll-order
+- jekyll-purgecss
+- jekyll-relative-urls
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-feed
 - jekyll-turbolinks
-- jekyll-include-cache
-- jekyll-purgecss
-- jekyll-brotli
-- jekyll-gzip
+- sutty-liquid
 sass:
   style: compressed
   load_paths:
