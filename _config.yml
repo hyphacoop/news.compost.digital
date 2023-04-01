@@ -11,6 +11,7 @@ plugins:
 - jekyll-hardlinks
 - jekyll-include-cache
 - jekyll-images
+- jekyll-linked-posts
 - jekyll-locales
 - jekyll-onion-location
 - jekyll-order
