@@ -50,3 +50,4 @@ ignored_layouts:
 - "menu"
 - "about"
 - "theme"
+css_dir: "assets/css"

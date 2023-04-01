@@ -20,8 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-locales'
   gem 'jekyll-onion-location'
   gem 'jekyll-order'
-  gem 'jekyll-purgecss',
-      git: 'https://0xacab.org/sutty/jekyll/jekyll-purgecss.git'
+  gem 'jekyll-purgecss'
   gem 'jekyll-relative-urls'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
