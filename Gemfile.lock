@@ -1,68 +1,16 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.sutty.nl/
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
-    adhesiones-jekyll-theme (0.2.6)
-      jekyll (~> 4)
-      jekyll-commonmark (~> 1.3)
-      jekyll-data (~> 1.1)
-      jekyll-dotenv (>= 0.2)
-      jekyll-feed (~> 0.15)
-      jekyll-ignore-layouts (~> 0)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-linked-posts (~> 0)
-      jekyll-locales (~> 0.1)
-      jekyll-order (~> 0)
-      jekyll-relative-urls (~> 0)
-      jekyll-seo-tag (~> 2)
-      sutty-liquid (~> 0)
     ansi (1.5.0)
     ast (2.4.2)
     brotli (0.2.3)
     coderay (1.1.3)
     colorator (1.1.0)
     commonmarker (0.23.8)
-    compost-jekyll-theme (0.1.6)
-      jekyll (~> 4.2.0)
-      jekyll-brotli (~> 2.3.0)
-      jekyll-data (~> 1.1.0)
-      jekyll-drafts-as-metadata (~> 0.0.6)
-      jekyll-embed-urls (~> 0.5.7)
-      jekyll-gzip (~> 2.5.1)
-      jekyll-hardlinks (~> 0.2.0)
-      jekyll-ignore-layouts (~> 0.1.2)
-      jekyll-images (~> 0.4.0)
-      jekyll-include-cache (~> 0.2.1)
-      jekyll-linked-posts (~> 0.4.3)
-      jekyll-locales (~> 0.2.0)
-      jekyll-order (~> 0.1.6)
-      jekyll-relative-urls (~> 0.0.6)
-      jekyll-seo-tag (~> 2.8.0)
-      sutty-liquid (~> 0.11.7)
     concurrent-ruby (1.2.2)
     crass (1.0.6)
-    dotenv (2.8.1)
-    editorial-autogestiva-jekyll-theme (0.3.5)
-      jekyll (~> 4)
-      jekyll-commonmark (~> 1.3)
-      jekyll-data (~> 1.1)
-      jekyll-dotenv (>= 0.2)
-      jekyll-feed (~> 0.15)
-      jekyll-hardlinks (~> 0)
-      jekyll-ignore-layouts (~> 0)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-linked-posts (~> 0)
-      jekyll-locales (~> 0.1)
-      jekyll-order (~> 0)
-      jekyll-relative-urls (~> 0)
-      jekyll-seo-tag (~> 2)
-      jekyll-spree-client (~> 0)
-      jekyll-unique-urls (~> 0)
-      jekyll-write-and-commit-changes (~> 0)
-      sutty-liquid (~> 0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -98,9 +46,6 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
-    httparty (0.18.1)
-      mime-types (~> 3.0)
-      multi_xml (>= 0.5.2)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.2)
@@ -125,9 +70,6 @@ GEM
       commonmarker (~> 0.22)
     jekyll-data (1.1.2)
       jekyll (>= 3.3, < 5.0.0)
-    jekyll-dotenv (0.2.0)
-      dotenv (~> 2.7)
-      jekyll (~> 4)
     jekyll-drafts-as-metadata (0.0.6)
       jekyll (>= 3.8, < 5)
     jekyll-embed-urls (0.5.9)
@@ -156,8 +98,6 @@ GEM
     jekyll-linked-posts (0.4.3)
       jekyll (~> 4)
     jekyll-locales (0.2.1)
-    jekyll-lunr (0.3.0)
-      loofah (~> 2.4)
     jekyll-onion-location (0.1.2)
       jekyll (~> 4)
     jekyll-order (0.1.6)
@@ -170,19 +110,10 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-spree-client (0.1.21)
-      fast_blank (~> 1)
-      spree-api-client (>= 0.2.4)
-    jekyll-turbolinks (0.0.6)
-      jekyll (~> 4)
-      turbolinks-source (~> 5)
     jekyll-unique-urls (0.1.2)
       jekyll (~> 4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    jekyll-write-and-commit-changes (0.2.3)
-      jekyll (~> 4)
-      rugged (~> 1)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -196,11 +127,7 @@ GEM
       nokogiri (>= 1.5.9)
     mercenary (0.4.0)
     method_source (1.0.0)
-    mime-types (3.4.1)
-      mime-types-data (~> 3.2015)
-    mime-types-data (3.2023.0218.1)
     mini_portile2 (2.8.1)
-    multi_xml (0.6.0)
     multipart-post (2.3.0)
     nokogiri (1.14.2)
       mini_portile2 (~> 2.8.0)
@@ -220,38 +147,10 @@ GEM
       method_source (~> 1.0)
     public_suffix (5.0.1)
     racc (1.6.2)
-    radios-comunitarias-jekyll-theme (0.1.6)
-      jekyll (~> 4.0)
-      jekyll-data (~> 1.1)
-      jekyll-feed (~> 0.9)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-linked-posts (~> 0)
-      jekyll-locales (~> 0.1)
-      jekyll-relative-urls (~> 0.0)
-      jekyll-seo-tag (~> 2.1)
     rainbow (3.1.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    recursero-jekyll-theme (0.2.0)
-      jekyll (~> 4)
-      jekyll-commonmark (~> 1.3)
-      jekyll-data (~> 1.1)
-      jekyll-dotenv (>= 0.2)
-      jekyll-feed (~> 0.15)
-      jekyll-ignore-layouts (~> 0)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-linked-posts (~> 0)
-      jekyll-locales (~> 0.1)
-      jekyll-lunr (~> 0.1)
-      jekyll-order (~> 0)
-      jekyll-relative-urls (~> 0)
-      jekyll-seo-tag (~> 2)
-      jekyll-unique-urls (~> 0.1)
-      sutty-archives (~> 2.2)
-      sutty-liquid (~> 0)
     regexp_parser (2.7.0)
     rexml (3.2.5)
     rouge (3.30.0)
@@ -281,33 +180,9 @@ GEM
     ruby-vips (2.1.4)
       ffi (~> 1.12)
     ruby2_keywords (0.0.5)
-    rugged (1.6.3)
     safe_yaml (1.0.6)
     sassc (2.4.0)
       ffi (~> 1.9)
-    share-to-fediverse-jekyll-theme (0.1.4)
-      jekyll (~> 4.0)
-      jekyll-data (~> 1.1)
-      jekyll-feed (~> 0.9)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-relative-urls (~> 0.0)
-      jekyll-seo-tag (~> 2.1)
-    spree-api-client (0.2.4)
-      fast_blank (~> 1)
-      httparty (~> 0.18.0)
-    sutty-archives (2.5.5)
-      jekyll (>= 3.6, < 5.0)
-    sutty-donaciones-jekyll-theme (0.1.3)
-      jekyll (~> 4.0)
-      jekyll-data (~> 1.1)
-      jekyll-feed (~> 0.9)
-      jekyll-images (~> 0.2)
-      jekyll-include-cache (~> 0)
-      jekyll-locales (~> 0.1)
-      jekyll-relative-urls (~> 0.0)
-      jekyll-seo-tag (~> 2.1)
-      sutty-archives (~> 2.2)
     sutty-jekyll-theme (0.2.5)
       jekyll (~> 4.2.0)
       jekyll-feed (~> 0.9)
@@ -319,16 +194,8 @@ GEM
     sutty-liquid (0.11.8)
       fast_blank (~> 1.0)
       jekyll (~> 4)
-    sutty-minima (2.6.4)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-include-cache
-      jekyll-relative-urls (~> 0)
-      jekyll-seo-tag (~> 2.1)
-      sutty-liquid
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    turbolinks-source (5.2.0)
     unicode-display_width (1.8.0)
     url-privacy (0.1.0)
 
@@ -336,9 +203,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  adhesiones-jekyll-theme
-  compost-jekyll-theme
-  editorial-autogestiva-jekyll-theme
   jekyll (~> 4.2.0)
   jekyll-brotli
   jekyll-commonmark
@@ -349,7 +213,9 @@ DEPENDENCIES
   jekyll-gzip
   jekyll-hardlinks
   jekyll-ignore-layouts
+  jekyll-images
   jekyll-include-cache
+  jekyll-linked-posts
   jekyll-locales
   jekyll-onion-location
   jekyll-order
@@ -357,17 +223,11 @@ DEPENDENCIES
   jekyll-relative-urls
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-turbolinks
   jekyll-unique-urls
   pry
-  radios-comunitarias-jekyll-theme
-  recursero-jekyll-theme
   rubocop-jekyll
-  share-to-fediverse-jekyll-theme
-  sutty-archives
-  sutty-donaciones-jekyll-theme
   sutty-jekyll-theme
-  sutty-minima
+  sutty-liquid
 
 BUNDLED WITH
    2.1.4
