@@ -9,6 +9,7 @@ plugins:
 - jekyll-feed
 - jekyll-gzip
 - jekyll-hardlinks
+- jekyll-ignore-layouts
 - jekyll-include-cache
 - jekyll-images
 - jekyll-linked-posts
