@@ -18,6 +18,7 @@ plugins:
 - jekyll-order
 - jekyll-purgecss
 - jekyll-relative-urls
+- jekyll-unique-urls
 - jekyll-seo-tag
 - jekyll-sitemap
 - sutty-liquid
