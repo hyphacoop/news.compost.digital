@@ -49,7 +49,7 @@ commonmark:
 locales:
 - es
 - en
-theme: sutty-jekyll-theme
+theme: sutty-minima
 ignored_layouts:
 - "menu"
 - "about"
