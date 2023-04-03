@@ -7,7 +7,7 @@ config = YAML.safe_load_file '_config.yml'
 source ENV.fetch('GEMS_SOURCE', 'https://gems.sutty.nl')
 
 gem 'jekyll', '~> 4.2.0'
-gem 'sutty-jekyll-theme'
+gem config['theme']
 
 config['plugins'].each do |plugin|
   gem plugin
