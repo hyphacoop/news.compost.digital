@@ -2,7 +2,7 @@
 
 require 'yaml'
 
-config = YAML.safe_load_file '_config.yml'
+config = YAML.safe_load File.read('_config.yml')
 
 source ENV.fetch('GEMS_SOURCE', 'https://gems.sutty.nl')
 
