@@ -51,7 +51,7 @@ Jekyll::Hooks.register :site, :post_read, priority: :high do |site|
 
   site.config['facebook']['app_id'] = about['facebook_app_id']
   site.config['facebook']['publisher'] =
-    about['social_networks'].find do |sn|
+    about['social_networks']&.find do |sn|
       sn.include? 'facebook.com'
     end
 
@@ -61,7 +61,7 @@ Jekyll::Hooks.register :site, :post_read, priority: :high do |site|
   end
 
   site.config['twitter']['username'] =
-    about['social_networks'].find do |sn|
+    about['social_networks']&.find do |sn|
       sn.include? 'twitter.com'
     end&.split('/')&.last
 end
