@@ -191,7 +191,7 @@ GEM
       jekyll-relative-urls (~> 0.0)
       jekyll-seo-tag (~> 2.1)
       sutty-liquid
-    sutty-liquid (0.11.8)
+    sutty-liquid (0.11.9)
       fast_blank (~> 1.0)
       jekyll (~> 4)
     terminal-table (2.0.0)
