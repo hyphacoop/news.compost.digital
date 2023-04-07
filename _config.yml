@@ -6,6 +6,7 @@ plugins:
 - jekyll-data
 - jekyll-drafts-as-metadata
 - jekyll-embed-urls
+- jekyll-env
 - jekyll-feed
 - jekyll-gzip
 - jekyll-hardlinks
