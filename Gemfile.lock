@@ -107,7 +107,7 @@ GEM
     jekyll-locales (0.2.1)
     jekyll-onion-location (0.1.2)
       jekyll (~> 4)
-    jekyll-order (0.1.6)
+    jekyll-order (0.1.7)
     jekyll-purgecss (0.3.0)
     jekyll-relative-urls (0.0.6)
       jekyll (~> 4)
