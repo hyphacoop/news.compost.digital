@@ -5,18 +5,15 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     ansi (1.5.0)
     ast (2.4.2)
-    brotli (0.2.3)
     brotli (0.2.3-x86_64-linux-musl)
     coderay (1.1.3)
     colorator (1.1.0)
-    commonmarker (0.23.9)
     commonmarker (0.23.9-x86_64-linux-musl)
     concurrent-ruby (1.2.2)
     crass (1.0.6)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    eventmachine (1.2.7)
     eventmachine (1.2.7-x86_64-linux-musl)
     faraday (1.10.3)
       faraday-em_http (~> 1.0)
@@ -45,12 +42,9 @@ GEM
     faraday-retry (1.0.3)
     faraday_middleware (1.2.0)
       faraday (~> 1.0)
-    fast_blank (1.0.1)
     fast_blank (1.0.1-x86_64-linux-musl)
-    ffi (1.15.5)
     ffi (1.15.5-x86_64-linux-musl)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.8.0)
     http_parser.rb (0.8.0-x86_64-linux-musl)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
@@ -136,15 +130,9 @@ GEM
     method_source (1.0.0)
     mini_portile2 (2.8.1)
     multipart-post (2.3.0)
-    nokogiri (1.14.3)
-      mini_portile2 (~> 2.8.0)
-      racc (~> 1.4)
     nokogiri (1.14.3-x86_64-linux-musl)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    oga (3.4)
-      ast
-      ruby-ll (~> 2.1)
     oga (3.4-x86_64-linux-musl)
       ast
       ruby-ll (~> 2.1)
@@ -159,7 +147,6 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (5.0.1)
-    racc (1.6.2)
     racc (1.6.2-x86_64-linux-musl)
     rainbow (3.1.1)
     rb-fsevent (0.11.2)
@@ -185,11 +172,7 @@ GEM
     rubocop-performance (1.17.1)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
-    ruby-filemagic (0.7.3)
     ruby-filemagic (0.7.3-x86_64-linux-musl)
-    ruby-ll (2.1.2)
-      ansi
-      ast
     ruby-ll (2.1.2-x86_64-linux-musl)
       ansi
       ast
@@ -199,8 +182,6 @@ GEM
       ffi (~> 1.12)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.6)
-    sassc (2.4.0)
-      ffi (~> 1.9)
     sassc (2.4.0-x86_64-linux-musl)
       ffi (~> 1.9)
     sutty-jekyll-theme (0.2.6)
@@ -220,7 +201,6 @@ GEM
     url-privacy (0.1.1)
 
 PLATFORMS
-  ruby
   x86_64-linux-musl
 
 DEPENDENCIES
