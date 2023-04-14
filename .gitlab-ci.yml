@@ -5,7 +5,7 @@ variables:
 test:
   stage: "test"
   before_script:
-  - "apk add libffi libstdc++ libxslt libxml2 tzdata ruby ruby-bundler ruby-json ruby-bigdecimal ruby-rake vips"
+  - "apk add libffi libstdc++ libxslt libxml2 tzdata ruby ruby-bundler ruby-json ruby-bigdecimal ruby-rake vips libmagic"
   - "bundle install --deployment --without test development"
   script:
   - "bundle exec jekyll build"
