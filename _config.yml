@@ -60,7 +60,9 @@ locales:
 - en
 theme: sutty-minima
 ignored_layouts:
-- "menu"
-- "about"
-- "theme"
-css_dir: "assets/css"
+- menu
+- about
+- theme
+css_dir: assets/css
+linked_fields:
+- locales
