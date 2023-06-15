@@ -64,3 +64,5 @@ ignored_layouts:
 - "about"
 - "theme"
 css_dir: "assets/css"
+linked_fields:
+- "locales"
