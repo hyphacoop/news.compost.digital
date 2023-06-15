@@ -66,3 +66,5 @@ ignored_layouts:
 css_dir: assets/css
 linked_fields:
 - locales
+brotli:
+  quality: 9
