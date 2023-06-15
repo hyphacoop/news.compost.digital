@@ -60,9 +60,9 @@ locales:
 - en
 theme: sutty-jekyll-theme
 ignored_layouts:
-- "menu"
-- "about"
-- "theme"
-css_dir: "assets/css"
+- menu
+- about
+- theme
+css_dir: assets/css
 linked_fields:
-- "locales"
+- locales
