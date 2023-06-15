@@ -27,6 +27,14 @@ sass:
   style: compressed
   load_paths:
   - node_modules
+liquid:
+  yaml_to_scss:
+    reject_keys:
+    - uuid
+    - locales
+    - title
+    - order
+    - draft
 exclude:
 - Dockerfile
 - Gemfile
