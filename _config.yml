@@ -56,7 +56,6 @@ commonmark:
   - autolink
   - table
 locales:
-- es
 - en
 theme: sutty-minima
 ignored_layouts:
@@ -68,3 +67,7 @@ linked_fields:
 - locales
 brotli:
   quality: 9
+description: 'COMPOST News: Dig into the mulch'
+title: COMPOST News
+url: https://compost-news.sutty.nl
+hostname: compost-news.sutty.nl
