@@ -17,3 +17,7 @@ group :development do
   gem 'pry'
   gem 'rubocop-jekyll'
 end
+
+group :jekyll_plugins do
+  gem 'jekyll-activity-pub', require: 'jekyll/activity_pub/commands'
+end

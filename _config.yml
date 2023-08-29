@@ -1,6 +1,7 @@
 ---
 incremental: false
 plugins:
+- jekyll-activity-pub
 - jekyll-brotli
 - jekyll-commonmark
 - jekyll-data
