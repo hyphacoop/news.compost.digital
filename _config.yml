@@ -23,6 +23,7 @@ plugins:
 - jekyll-unique-urls
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-write-and-commit-changes
 - sutty-liquid
 sass:
   style: compressed
