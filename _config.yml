@@ -68,3 +68,8 @@ linked_fields:
 - locales
 brotli:
   quality: 9
+defaults:
+- scope:
+    type: posts
+  values:
+    activity: false
