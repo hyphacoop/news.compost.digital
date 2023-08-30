@@ -1,5 +1,8 @@
 ---
 incremental: false
+early_plugins:
+- gem: jekyll-activity-pub
+  require: jekyll/activity_pub/commands
 plugins:
 - jekyll-activity-pub
 - jekyll-brotli
