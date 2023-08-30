@@ -78,3 +78,5 @@ defaults:
     type: posts
   values:
     activity: false
+activity_pub:
+  url: https://social.dp.chanterelle.xyz
