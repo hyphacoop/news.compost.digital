@@ -1,3 +1,12 @@
+GIT
+  remote: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
+  revision: e3d917e4206bca642a168b95f56efe4ac91234f4
+  branch: rc
+  specs:
+    jekyll-activity-pub (0.1.0rc1)
+      distributed-press-api-client (~> 0.3.0rc0)
+      jekyll (~> 4)
+
 GEM
   remote: https://gems.sutty.nl/
   specs:
@@ -12,7 +21,7 @@ GEM
     commonmarker (0.23.10-x86_64-linux-musl)
     concurrent-ruby (1.2.2)
     crass (1.0.6)
-    distributed-press-api-client (0.3.0rc0)
+    distributed-press-api-client (0.3.0rc1)
       addressable (~> 2.3, >= 2.3.0)
       climate_control
       dry-schema
@@ -100,9 +109,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-activity-pub (0.1.0rc1)
-      distributed-press-api-client (~> 0.3.0rc0)
-      jekyll (~> 4)
     jekyll-brotli (2.4.1)
       brotli (~> 0.2.0)
       jekyll (>= 3.0, < 5.0)
@@ -253,7 +259,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
-  jekyll-activity-pub
+  jekyll-activity-pub!
   jekyll-brotli
   jekyll-commonmark
   jekyll-data
