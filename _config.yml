@@ -3,6 +3,8 @@ incremental: false
 early_plugins:
 - gem: jekyll-activity-pub
   require: jekyll/activity_pub/commands
+  git: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
+  branch: rc
 plugins:
 - jekyll-activity-pub
 - jekyll-brotli
@@ -62,7 +64,6 @@ commonmark:
   - table
 locales:
 - es
-- en
 theme: sutty-minima
 ignored_layouts:
 - menu
@@ -79,4 +80,7 @@ defaults:
   values:
     activity: false
 activity_pub:
-  url: https://social.dp.chanterelle.xyz
+  url: https://dpress.sutty.local
+hostname: skel.sutty.local
+url: https://skel.sutty.local
+  #permalink: ":title/"
