@@ -100,7 +100,7 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-activity-pub (0.1.0rc9)
+    jekyll-activity-pub (0.1.0rc10)
       distributed-press-api-client (~> 0.3.0rc3)
       jekyll (~> 4)
     jekyll-brotli (2.4.2)
