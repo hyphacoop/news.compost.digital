@@ -5,5 +5,7 @@ User-Agent: *
 Allow: /
 
 Host: {{ site.hostname }}
-{% for locale in site.locales %}
-Sitemap: {{ site.url }}{{ locale }}/sitemap.xml{% endfor %}
+Sitemap: {{ 'sitemap.xml' | absolute_url }}
+{% for locale in site.locales -%}
+Sitemap: {{ site.url }}{{ locale }}/sitemap.xml
+{%- endfor %}
