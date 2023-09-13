@@ -1,6 +1,6 @@
 GIT
   remote: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
-  revision: 9be48ca6630c1a1c633792cd51e03fdb5d99ceba
+  revision: aaba7b3c1a24adb27c7ce1c7098d848ddfadfcb3
   branch: rc
   specs:
     jekyll-activity-pub (0.1.0rc12)
@@ -243,7 +243,7 @@ GEM
     sutty-liquid (0.11.11)
       fast_blank (~> 1.0)
       jekyll (~> 4)
-    sutty-minima (2.7.0rc0)
+    sutty-minima (2.7.0rc1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-include-cache
