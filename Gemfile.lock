@@ -1,6 +1,6 @@
 GIT
   remote: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
-  revision: 98457f5701b1a3914c3ae9bea180f74277955f04
+  revision: 71dd89b4ed829d3e98c0f3a3988fa769e48c269e
   branch: rc
   specs:
     jekyll-activity-pub (0.1.0rc12)
