@@ -40,6 +40,8 @@ Jekyll::Hooks.register :site, :post_read, priority: :high do |site|
   site.config['about'] = about
   site.config['tagline'] = about['tagline']
   site.config['description'] = about['description']
+  site.config['activity_pub']['published'] = about['created_at']
+  site.config['activity_pub']['updated'] = about['last_modified_at']
   site.config['logo'] = about.data.dig('logo', 'path')
   index.data['image'] = site.config['image'] = about['image']
 

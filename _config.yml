@@ -1,6 +1,12 @@
 ---
 incremental: false
+early_plugins:
+- gem: jekyll-activity-pub
+  require: jekyll/activity_pub/commands
+  git: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
+  branch: rc
 plugins:
+- jekyll-activity-pub
 - jekyll-brotli
 - jekyll-commonmark
 - jekyll-data
@@ -22,6 +28,7 @@ plugins:
 - jekyll-unique-urls
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-write-and-commit-changes
 - sutty-liquid
 sass:
   style: compressed
@@ -71,3 +78,10 @@ description: 'COMPOST News: Dig into the mulch'
 title: COMPOST News
 url: https://compost-news.sutty.nl
 hostname: compost-news.sutty.nl
+defaults:
+- scope:
+    type: posts
+  values:
+    activity: false
+activity_pub:
+  url: https://social.dp.chanterelle.xyz
