@@ -1,6 +1,10 @@
 ---
 incremental: false
+early_plugins:
+- gem: jekyll-activity-pub
+  require: jekyll/activity_pub/commands
 plugins:
+- jekyll-activity-pub
 - jekyll-brotli
 - jekyll-commonmark
 - jekyll-data
@@ -22,6 +26,7 @@ plugins:
 - jekyll-unique-urls
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-write-and-commit-changes
 - sutty-liquid
 sass:
   style: compressed
@@ -68,3 +73,10 @@ linked_fields:
 - locales
 brotli:
   quality: 9
+defaults:
+- scope:
+    type: posts
+  values:
+    activity: false
+activity_pub:
+  url: https://social.dp.chanterelle.xyz
