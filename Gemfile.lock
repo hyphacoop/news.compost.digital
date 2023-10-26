@@ -63,6 +63,10 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-activity-pub (0.1.0rc14)
+      distributed-press-api-client (~> 0.3.0rc3)
+      jekyll (~> 4)
+      marcel (~> 1)
     jekyll-brotli (2.4.2)
       brotli (~> 0.2.0)
       jekyll (>= 3.0, < 5.0)
@@ -115,6 +119,11 @@ GEM
       jekyll (~> 4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-write-and-commit-changes (0.2.3)
+      jekyll (~> 4)
+      rugged (~> 1)
+    json (2.6.3-x86_64-linux-musl)
+    jwt (2.6.0)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -201,12 +210,14 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
     url-privacy (0.1.1)
+    zeitwerk (2.6.12)
 
 PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
+  jekyll-activity-pub
   jekyll-brotli
   jekyll-commonmark
   jekyll-data
@@ -228,6 +239,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-unique-urls
+  jekyll-write-and-commit-changes
   pry
   rubocop-jekyll
   sutty-jekyll-theme
