@@ -1,10 +1,10 @@
 GIT
   remote: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
-  revision: 6962a711a6d218370a54e2d32847cf9054436146
+  revision: ff9d74fe5be2c5771a14cbb06986668af44b6cdf
   branch: rc
   specs:
-    jekyll-activity-pub (0.1.0rc12)
-      distributed-press-api-client (~> 0.3.0rc3)
+    jekyll-activity-pub (0.1.0rc14)
+      distributed-press-api-client (~> 0.3.0rc4)
       jekyll (~> 4)
       marcel (~> 1)
 
@@ -22,7 +22,7 @@ GEM
     commonmarker (0.23.10-x86_64-linux-musl)
     concurrent-ruby (1.2.2)
     crass (1.0.6)
-    distributed-press-api-client (0.3.0rc3)
+    distributed-press-api-client (0.3.0rc4)
       addressable (~> 2.3, >= 2.3.0)
       climate_control
       dry-schema
@@ -255,7 +255,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
     url-privacy (0.1.1)
-    zeitwerk (2.6.11)
+    zeitwerk (2.6.12)
 
 PLATFORMS
   x86_64-linux-musl
