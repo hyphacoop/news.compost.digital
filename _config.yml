@@ -79,4 +79,4 @@ defaults:
   values:
     activity: false
 activity_pub:
-  url: https://social.dp.chanterelle.xyz
+  url: https://social.distributed.press
