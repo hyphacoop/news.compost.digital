@@ -76,8 +76,8 @@ brotli:
   quality: 9
 description: 'COMPOST News: Dig into the mulch'
 title: COMPOST News
-url: https://compost-news.sutty.nl
-hostname: compost-news.sutty.nl
+url: https://news.compost.digital
+hostname: news.compost.digital
 defaults:
 - scope:
     type: posts
