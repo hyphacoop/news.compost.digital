@@ -1,17 +1,18 @@
 ---
 title: About
 tagline: Updates about COMPOST and Distributed.Press
-author: COMPOST
+author: COMPOST News
 description: Updates on COMPOST, Distributed.Press, and dweb publishing.
 logo:
   path: public/9ju7v6f3boylhijeh2ml954mo555/COMPOST_Logo_300.png
   description: COMPOST logo
 image:
-  path: public/fv77rz3n5u18qs2xgrv5vsiqx7zo/COMPOST_Logo_300.png
+  path: public/5in07nxcdo4d87y7pmeopxrg7vsy/stickers-cover-700x350.png
   description: COMPOST logo
 email: hello@compost.digital
 social_networks:
 - https://social.coop/@compost
+- https://instagram.com/compost_mag
 locales: []
 draft: false
 order: 5
@@ -21,6 +22,6 @@ render_with_liquid: false
 usuaries:
 - 616
 created_at: 2023-11-29 20:21:41.221134358 +00:00
-last_modified_at: 2023-11-29 20:21:41.230380811 +00:00
+last_modified_at: 2023-12-02 00:10:52.412488916 +00:00
 ---
 
