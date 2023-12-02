@@ -1,6 +1,6 @@
 ---
 title: About
-description: About the COMPOST News blog.
+description: About the COMPOST News blog
 author: []
 locales: []
 draft: false
@@ -11,7 +11,7 @@ render_with_liquid: false
 usuaries:
 - 616
 created_at: 2023-11-30 02:33:20.155899484 +00:00
-last_modified_at: 2023-11-30 02:33:20.164005321 +00:00
+last_modified_at: 2023-12-02 00:11:18.423541199 +00:00
 ---
 
 <p style="text-align:start">COMPOST is a magazine about the digital commons. We curate art, reflections, and experiments about building the web as a shared resource with active stewards.</p><p style="text-align:start">This is an offshoot of the magazine for ongoing news about COMPOST, Distributed.Press, and other projects related to the decentralized web.</p><p style="text-align:start">If you like what we’re doing, please consider becoming a <a href="https://opencollective.com/compost/contribute/backer-22573/checkout" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">subscriber</a>, contributing <a href="https://opencollective.com/compost" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">money</a> (or crypto through <a href="https://gitcoin.co/grants/1385/compost" rel="noopener" target="_blank" referrerpolicy="strict-origin-when-cross-origin">Gitcoin</a> or directly to <code>compostmag.eth</code>).</p>
