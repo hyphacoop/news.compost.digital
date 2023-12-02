@@ -2,3 +2,7 @@
 actor_url: https://compost-news.sutty.nl/about.jsonld
 actor: "@compost-news@compost-news.sutty.nl"
 public_key_url: https://compost-news.sutty.nl/pubkey.pem
+notifications:
+  2023/11/30/hello-world.jsonld:
+    action: create
+    id: https://compost-news.sutty.nl/2023/11/30/hello-world.html
