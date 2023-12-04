@@ -3,8 +3,6 @@ incremental: false
 early_plugins:
 - gem: jekyll-activity-pub
   require: jekyll/activity_pub/commands
-  git: https://0xacab.org/sutty/jekyll/jekyll-activitypub.git
-  branch: rc
 plugins:
 - jekyll-activity-pub
 - jekyll-brotli
@@ -84,4 +82,4 @@ defaults:
   values:
     activity: false
 activity_pub:
-  url: https://social.dp.chanterelle.xyz
+  url: https://social.distributed.press
