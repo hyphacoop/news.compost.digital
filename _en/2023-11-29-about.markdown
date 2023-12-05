@@ -6,9 +6,6 @@ description: Updates on COMPOST, Distributed.Press, and dweb publishing.
 logo:
   path: public/9ju7v6f3boylhijeh2ml954mo555/COMPOST_Logo_300.png
   description: COMPOST logo
-image:
-  path: public/5in07nxcdo4d87y7pmeopxrg7vsy/stickers-cover-700x350.png
-  description: COMPOST logo
 email: hello@compost.digital
 social_networks:
 - https://social.coop/@compost
@@ -22,6 +19,6 @@ render_with_liquid: false
 usuaries:
 - 616
 created_at: 2023-11-29 20:21:41.221134358 +00:00
-last_modified_at: 2023-12-02 00:10:52.412488916 +00:00
+last_modified_at: 2023-12-05 19:48:04.814847042 +00:00
 ---
 
