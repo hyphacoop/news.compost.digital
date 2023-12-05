@@ -1,8 +1,8 @@
 ---
-actor_url: https://compost-news.sutty.nl/about.jsonld
-actor: "@compost-news@compost-news.sutty.nl"
-public_key_url: https://compost-news.sutty.nl/pubkey.pem
+actor_url: https://news.compost.digital/about.jsonld
+actor: "@posts@news.compost.digital"
+public_key_url: https://news.compost.digital/about.jsonld#main-key
 notifications:
   2023/11/30/hello-world.jsonld:
     action: create
-    id: https://compost-news.sutty.nl/2023/11/30/hello-world.html
+    id: https://news.compost.digital/2023/11/30/hello-world.html
