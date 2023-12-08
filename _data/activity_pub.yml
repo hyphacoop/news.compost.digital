@@ -4,6 +4,7 @@ actor: "@posts@news.compost.digital"
 public_key_url: https://news.compost.digital/about.jsonld#main-key
 notifications:
   2023/11/30/hello-world.jsonld:
-    action: update
+    action: done
     id: https://news.compost.digital/2023/11/30/hello-world.html
     created_at: 1701803892
+    updated_at: 1702041217
