@@ -4,10 +4,10 @@ tagline: Updates about COMPOST and Distributed.Press
 author: COMPOST News
 description: Updates on COMPOST, Distributed.Press, and dweb publishing.
 logo:
-  path: public/9ju7v6f3boylhijeh2ml954mo555/COMPOST_Logo_300.png
+  path: public/wxlztdyi45ypol36tmz0efgory3n/COMPOST_NEWS_54px.png
   description: COMPOST logo
 image:
-  path: public/rhl1ybg4gnrq5tb1849wvbilqlqn/background_header.png
+  path: public/pl0xu0e8nqvio5fciy5uhd0hvls1/background_header.png
   description: White soil pattern on black
 email: hello@compost.digital
 social_networks:
@@ -21,7 +21,8 @@ uuid: 80f04060-4a9b-44c3-9757-6faae8261381
 render_with_liquid: false
 usuaries:
 - 616
+- 1
 created_at: 2023-11-29 20:21:41.221134358 +00:00
-last_modified_at: 2023-12-07 23:51:27.543038765 +00:00
+last_modified_at: 2023-12-08 13:19:49.335891657 +00:00
 ---
 
