@@ -4,7 +4,7 @@ tagline: Updates about COMPOST and Distributed.Press
 author: COMPOST News
 description: Updates on COMPOST, Distributed.Press, and dweb publishing.
 logo:
-  path: public/wxlztdyi45ypol36tmz0efgory3n/COMPOST_NEWS_54px.png
+  path: public/q08yvwgfoxpuezwic2aymp38plpd/COMPOST_Logo_300_78x54.png
   description: COMPOST logo
 image:
   path: public/pl0xu0e8nqvio5fciy5uhd0hvls1/background_header.png
@@ -20,9 +20,9 @@ layout: about
 uuid: 80f04060-4a9b-44c3-9757-6faae8261381
 render_with_liquid: false
 usuaries:
-- 616
 - 1
+- 616
 created_at: 2023-11-29 20:21:41.221134358 +00:00
-last_modified_at: 2023-12-08 13:19:49.335891657 +00:00
+last_modified_at: 2023-12-08 13:35:14.997091994 +00:00
 ---
 
