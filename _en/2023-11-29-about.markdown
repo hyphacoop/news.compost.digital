@@ -7,7 +7,7 @@ logo:
   path: public/cw0v7myvuzpbj6fi6flfixhhy5ph/COMPOST_NEWS_54px.png
   description: COMPOST News
 image:
-  path: public/3wkkxc2ohqnrxsb4s6nvj61t7bun/background_header.png
+  path: public/00ggtsro5oldjg52b7g1w2fctba4/background_header_trimmed.png
   description: White soil pattern on black
 email: hello@compost.digital
 social_networks:
@@ -23,6 +23,6 @@ usuaries:
 - 1
 - 616
 created_at: 2023-11-29 20:21:41.221134358 +00:00
-last_modified_at: 2023-12-08 19:49:08.444924272 +00:00
+last_modified_at: 2023-12-11 20:55:22.305768645 +00:00
 ---
 
