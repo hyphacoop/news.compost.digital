@@ -1,6 +1,6 @@
 ---
 title: COMPOST News
-skin: classic
+skin: solarized-dark
 draft: false
 order: 3
 layout: theme
@@ -9,6 +9,6 @@ render_with_liquid: false
 usuaries:
 - 616
 created_at: 2023-07-27 00:00:00.000000000 +00:00
-last_modified_at: 2023-12-05 19:49:33.690269800 +00:00
+last_modified_at: 2023-12-11 20:45:42.265215060 +00:00
 ---
 
